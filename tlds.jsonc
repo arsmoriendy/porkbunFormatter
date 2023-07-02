@@ -1,0 +1,4840 @@
+/*
+  Backup default filtered tld array
+  Updated: Sun Jul  2 09:19:12 AM UTC 2023
+*/
+
+[
+  {
+    "extension": ".abogado",
+    "registrationPrice": 14.39,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 22.11,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".ac",
+    "registrationPrice": 26.06,
+    "renewalPrice": 26.06,
+    "transferPrice": 26.06,
+    "regularRegistrationPrice": 46.65,
+    "regularRenewalPrice": 46.65,
+    "regularTransferPrice": 46.65
+  },
+  {
+    "extension": ".academy",
+    "registrationPrice": 13.37,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".accountant",
+    "registrationPrice": 21.07,
+    "renewalPrice": 21.07,
+    "transferPrice": 21.07,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".accountants",
+    "registrationPrice": 15.94,
+    "renewalPrice": 72.58,
+    "transferPrice": 72.58,
+    "regularRegistrationPrice": 72.58,
+    "regularRenewalPrice": 72.58,
+    "regularTransferPrice": 72.58
+  },
+  {
+    "extension": ".actor",
+    "registrationPrice": 10.79,
+    "renewalPrice": 27.79,
+    "transferPrice": 27.79,
+    "regularRegistrationPrice": 27.79,
+    "regularRenewalPrice": 27.79,
+    "regularTransferPrice": 27.79
+  },
+  {
+    "extension": ".adult",
+    "registrationPrice": 53.01,
+    "renewalPrice": 77.73,
+    "transferPrice": 77.73,
+    "regularRegistrationPrice": 78.75,
+    "regularRenewalPrice": 77.73,
+    "regularTransferPrice": 77.73
+  },
+  {
+    "extension": ".ae.org",
+    "registrationPrice": 16.98,
+    "renewalPrice": 16.94,
+    "transferPrice": 16.94,
+    "regularRegistrationPrice": 16.98,
+    "regularRenewalPrice": 16.94,
+    "regularTransferPrice": 16.94
+  },
+  {
+    "extension": ".agency",
+    "registrationPrice": 4.61,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".ai",
+    "registrationPrice": 72.4,
+    "renewalPrice": 72.4,
+    "transferPrice": 144.49,
+    "regularRegistrationPrice": 72.4,
+    "regularRenewalPrice": 72.4,
+    "regularTransferPrice": 144.49
+  },
+  {
+    "extension": ".airforce",
+    "registrationPrice": 22.64,
+    "renewalPrice": 22.64,
+    "transferPrice": 21.67,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".am",
+    "registrationPrice": 41.5,
+    "renewalPrice": 41.5,
+    "transferPrice": 41.5,
+    "regularRegistrationPrice": 41.5,
+    "regularRenewalPrice": 41.5,
+    "regularTransferPrice": 41.5
+  },
+  {
+    "extension": ".apartments",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".app",
+    "registrationPrice": 12.85,
+    "renewalPrice": 12.87,
+    "transferPrice": 12.85,
+    "regularRegistrationPrice": 12.85,
+    "regularRenewalPrice": 12.87,
+    "regularTransferPrice": 12.85
+  },
+  {
+    "extension": ".archi",
+    "registrationPrice": 13.37,
+    "renewalPrice": 54.56,
+    "transferPrice": 54.56,
+    "regularRegistrationPrice": 54.56,
+    "regularRenewalPrice": 54.56,
+    "regularTransferPrice": 54.56
+  },
+  {
+    "extension": ".army",
+    "registrationPrice": 10.79,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".art",
+    "registrationPrice": 3.58,
+    "renewalPrice": 12.85,
+    "transferPrice": 12.85,
+    "regularRegistrationPrice": 9.76,
+    "regularRenewalPrice": 12.85,
+    "regularTransferPrice": 12.85
+  },
+  {
+    "extension": ".asia",
+    "registrationPrice": 4.1,
+    "renewalPrice": 11.28,
+    "transferPrice": 10.79,
+    "regularRegistrationPrice": 10.79,
+    "regularRenewalPrice": 11.28,
+    "regularTransferPrice": 10.79
+  },
+  {
+    "extension": ".associates",
+    "registrationPrice": 15.94,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".attorney",
+    "registrationPrice": 41.69,
+    "renewalPrice": 41.69,
+    "transferPrice": 41.69,
+    "regularRegistrationPrice": 41.69,
+    "regularRenewalPrice": 41.69,
+    "regularTransferPrice": 41.69
+  },
+  {
+    "extension": ".auction",
+    "registrationPrice": 3.07,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".audio",
+    "registrationPrice": 103.48,
+    "renewalPrice": 103.48,
+    "transferPrice": 103.48,
+    "regularRegistrationPrice": 103.48,
+    "regularRenewalPrice": 103.48,
+    "regularTransferPrice": 103.48
+  },
+  {
+    "extension": ".auto",
+    "registrationPrice": 2060.23,
+    "renewalPrice": 2060.87,
+    "transferPrice": 2060.23,
+    "regularRegistrationPrice": 2060.23,
+    "regularRenewalPrice": 2060.87,
+    "regularTransferPrice": 2060.23
+  },
+  {
+    "extension": ".autos",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".baby",
+    "registrationPrice": 4.82,
+    "renewalPrice": 51.99,
+    "transferPrice": 51.99,
+    "regularRegistrationPrice": 51.99,
+    "regularRenewalPrice": 51.99,
+    "regularTransferPrice": 51.99
+  },
+  {
+    "extension": ".band",
+    "registrationPrice": 13.37,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".bar",
+    "registrationPrice": 5.64,
+    "renewalPrice": 51.99,
+    "transferPrice": 51.99,
+    "regularRegistrationPrice": 51.99,
+    "regularRenewalPrice": 51.99,
+    "regularTransferPrice": 51.99
+  },
+  {
+    "extension": ".bargains",
+    "registrationPrice": 8.22,
+    "renewalPrice": 22.12,
+    "transferPrice": 22.12,
+    "regularRegistrationPrice": 22.12,
+    "regularRenewalPrice": 22.12,
+    "regularTransferPrice": 22.12
+  },
+  {
+    "extension": ".basketball",
+    "registrationPrice": 41.98,
+    "renewalPrice": 42.94,
+    "transferPrice": 42.49,
+    "regularRegistrationPrice": 41.98,
+    "regularRenewalPrice": 42.94,
+    "regularTransferPrice": 42.49
+  },
+  {
+    "extension": ".bayern",
+    "registrationPrice": 28.98,
+    "renewalPrice": 29.94,
+    "transferPrice": 27.15,
+    "regularRegistrationPrice": 28.98,
+    "regularRenewalPrice": 29.94,
+    "regularTransferPrice": 27.15
+  },
+  {
+    "extension": ".beauty",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".beer",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".best",
+    "registrationPrice": 3.57,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".bet",
+    "registrationPrice": 8.03,
+    "renewalPrice": 15.76,
+    "transferPrice": 15.76,
+    "regularRegistrationPrice": 15.76,
+    "regularRenewalPrice": 15.76,
+    "regularTransferPrice": 15.76
+  },
+  {
+    "extension": ".bh",
+    "registrationPrice": 45.99,
+    "renewalPrice": 54.63,
+    "transferPrice": 41.99,
+    "regularRegistrationPrice": 45.99,
+    "regularRenewalPrice": 54.63,
+    "regularTransferPrice": 41.99
+  },
+  {
+    "extension": ".bible",
+    "registrationPrice": 40.66,
+    "renewalPrice": 40.98,
+    "transferPrice": 41.49,
+    "regularRegistrationPrice": 40.66,
+    "regularRenewalPrice": 40.98,
+    "regularTransferPrice": 41.49
+  },
+  {
+    "extension": ".bid",
+    "registrationPrice": 3.56,
+    "renewalPrice": 4.59,
+    "transferPrice": 3.56,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".bike",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".bingo",
+    "registrationPrice": 8.22,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".bio",
+    "registrationPrice": 5.64,
+    "renewalPrice": 54.56,
+    "transferPrice": 54.56,
+    "regularRegistrationPrice": 54.56,
+    "regularRenewalPrice": 54.56,
+    "regularTransferPrice": 54.56
+  },
+  {
+    "extension": ".biz",
+    "registrationPrice": 4.1,
+    "renewalPrice": 14.4,
+    "transferPrice": 14.4,
+    "regularRegistrationPrice": 14.4,
+    "regularRenewalPrice": 14.4,
+    "regularTransferPrice": 14.4
+  },
+  {
+    "extension": ".black",
+    "registrationPrice": 10.79,
+    "renewalPrice": 44.26,
+    "transferPrice": 44.26,
+    "regularRegistrationPrice": 44.26,
+    "regularRenewalPrice": 44.26,
+    "regularTransferPrice": 44.26
+  },
+  {
+    "extension": ".blackfriday",
+    "registrationPrice": 103.48,
+    "renewalPrice": 111.94,
+    "transferPrice": 103.48,
+    "regularRegistrationPrice": 103.48,
+    "regularRenewalPrice": 111.94,
+    "regularTransferPrice": 103.48
+  },
+  {
+    "extension": ".blog",
+    "registrationPrice": 3.58,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".blue",
+    "registrationPrice": 11.82,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".boats",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".bond",
+    "registrationPrice": 2.76,
+    "renewalPrice": 8.73,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 8.73,
+    "regularRenewalPrice": 8.73,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".boo",
+    "registrationPrice": 8.73,
+    "renewalPrice": 8.73,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 8.73,
+    "regularRenewalPrice": 8.73,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".boston",
+    "registrationPrice": 5.64,
+    "renewalPrice": 10.79,
+    "transferPrice": 10.79,
+    "regularRegistrationPrice": 10.79,
+    "regularRenewalPrice": 10.79,
+    "regularTransferPrice": 10.79
+  },
+  {
+    "extension": ".boutique",
+    "registrationPrice": 3.07,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".br.com",
+    "registrationPrice": 34.87,
+    "renewalPrice": 34.87,
+    "transferPrice": 34.29,
+    "regularRegistrationPrice": 34.87,
+    "regularRenewalPrice": 34.87,
+    "regularTransferPrice": 34.29
+  },
+  {
+    "extension": ".broker",
+    "registrationPrice": 10.79,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".build",
+    "registrationPrice": 26.24,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 51.99,
+    "regularRenewalPrice": 51.99,
+    "regularTransferPrice": 51.99
+  },
+  {
+    "extension": ".builders",
+    "registrationPrice": 4.61,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".business",
+    "registrationPrice": 2.55,
+    "renewalPrice": 8.73,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 8.73,
+    "regularRenewalPrice": 8.73,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".buzz",
+    "registrationPrice": 1.32,
+    "renewalPrice": 26.87,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.87,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".ca",
+    "registrationPrice": 8.46,
+    "renewalPrice": 8.46,
+    "transferPrice": 8.46,
+    "regularRegistrationPrice": 11.12,
+    "regularRenewalPrice": 11.12,
+    "regularTransferPrice": 11.12
+  },
+  {
+    "extension": ".cab",
+    "registrationPrice": 10.79,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".cafe",
+    "registrationPrice": 5.64,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".cam",
+    "registrationPrice": 1.78,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 7.7,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".camera",
+    "registrationPrice": 8.22,
+    "renewalPrice": 41.69,
+    "transferPrice": 41.69,
+    "regularRegistrationPrice": 41.69,
+    "regularRenewalPrice": 41.69,
+    "regularTransferPrice": 41.69
+  },
+  {
+    "extension": ".camp",
+    "registrationPrice": 4.61,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".capital",
+    "registrationPrice": 8.22,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".car",
+    "registrationPrice": 2060.23,
+    "renewalPrice": 2060.87,
+    "transferPrice": 2060.23,
+    "regularRegistrationPrice": 2060.23,
+    "regularRenewalPrice": 2060.87,
+    "regularTransferPrice": 2060.23
+  },
+  {
+    "extension": ".cards",
+    "registrationPrice": 4.61,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".care",
+    "registrationPrice": 10.79,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".careers",
+    "registrationPrice": 26.24,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".cars",
+    "registrationPrice": 2060.23,
+    "renewalPrice": 2060.87,
+    "transferPrice": 2060.23,
+    "regularRegistrationPrice": 2060.23,
+    "regularRenewalPrice": 2060.87,
+    "regularTransferPrice": 2060.23
+  },
+  {
+    "extension": ".casa",
+    "registrationPrice": 4.61,
+    "renewalPrice": 6.67,
+    "transferPrice": 6.67,
+    "regularRegistrationPrice": 6.67,
+    "regularRenewalPrice": 6.67,
+    "regularTransferPrice": 6.67
+  },
+  {
+    "extension": ".cash",
+    "registrationPrice": 10.79,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".casino",
+    "registrationPrice": 8.22,
+    "renewalPrice": 108.63,
+    "transferPrice": 108.63,
+    "regularRegistrationPrice": 108.63,
+    "regularRenewalPrice": 108.63,
+    "regularTransferPrice": 108.63
+  },
+  {
+    "extension": ".catering",
+    "registrationPrice": 24.18,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".cc",
+    "registrationPrice": 8.55,
+    "renewalPrice": 8.55,
+    "transferPrice": 8.55,
+    "regularRegistrationPrice": 8.55,
+    "regularRenewalPrice": 8.55,
+    "regularTransferPrice": 8.55
+  },
+  {
+    "extension": ".center",
+    "registrationPrice": 6.67,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".ceo",
+    "registrationPrice": 72.58,
+    "renewalPrice": 72.58,
+    "transferPrice": 72.58,
+    "regularRegistrationPrice": 72.58,
+    "regularRenewalPrice": 72.58,
+    "regularTransferPrice": 72.58
+  },
+  {
+    "extension": ".cfd",
+    "registrationPrice": 1.2,
+    "renewalPrice": 7.7,
+    "transferPrice": 7.7,
+    "regularRegistrationPrice": 7.7,
+    "regularRenewalPrice": 7.7,
+    "regularTransferPrice": 7.7
+  },
+  {
+    "extension": ".charity",
+    "registrationPrice": 6.67,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".chat",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".cheap",
+    "registrationPrice": 5.64,
+    "renewalPrice": 22.12,
+    "transferPrice": 22.12,
+    "regularRegistrationPrice": 22.12,
+    "regularRenewalPrice": 22.12,
+    "regularTransferPrice": 22.12
+  },
+  {
+    "extension": ".christmas",
+    "registrationPrice": 31.39,
+    "renewalPrice": 31.39,
+    "transferPrice": 31.39,
+    "regularRegistrationPrice": 31.39,
+    "regularRenewalPrice": 31.39,
+    "regularTransferPrice": 31.39
+  },
+  {
+    "extension": ".church",
+    "registrationPrice": 10.79,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".city",
+    "registrationPrice": 4.61,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".claims",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".cleaning",
+    "registrationPrice": 39.63,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".click",
+    "registrationPrice": 2.04,
+    "renewalPrice": 9.76,
+    "transferPrice": 9.76,
+    "regularRegistrationPrice": 9.76,
+    "regularRenewalPrice": 9.76,
+    "regularTransferPrice": 9.76
+  },
+  {
+    "extension": ".clinic",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".clothing",
+    "registrationPrice": 11.82,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".cloud",
+    "registrationPrice": 15.94,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".club",
+    "registrationPrice": 4.1,
+    "renewalPrice": 11.77,
+    "transferPrice": 11.77,
+    "regularRegistrationPrice": 11.77,
+    "regularRenewalPrice": 11.77,
+    "regularTransferPrice": 11.77
+  },
+  {
+    "extension": ".cn.com",
+    "registrationPrice": 14.73,
+    "renewalPrice": 31.2,
+    "transferPrice": 31.2,
+    "regularRegistrationPrice": 14.73,
+    "regularRenewalPrice": 31.2,
+    "regularTransferPrice": 31.2
+  },
+  {
+    "extension": ".co",
+    "registrationPrice": 8.55,
+    "renewalPrice": 22.97,
+    "transferPrice": 22.97,
+    "regularRegistrationPrice": 22.97,
+    "regularRenewalPrice": 22.97,
+    "regularTransferPrice": 22.97
+  },
+  {
+    "extension": ".co.com",
+    "registrationPrice": 20.91,
+    "renewalPrice": 20.91,
+    "transferPrice": 20.91,
+    "regularRegistrationPrice": 20.91,
+    "regularRenewalPrice": 20.91,
+    "regularTransferPrice": 20.91
+  },
+  {
+    "extension": ".co.gg",
+    "registrationPrice": 36.35,
+    "renewalPrice": 36.35,
+    "transferPrice": 36.35,
+    "regularRegistrationPrice": 36.35,
+    "regularRenewalPrice": 36.35,
+    "regularTransferPrice": 36.35
+  },
+  {
+    "extension": ".co.in",
+    "registrationPrice": 4.43,
+    "renewalPrice": 4.43,
+    "transferPrice": 4.43,
+    "regularRegistrationPrice": 4.43,
+    "regularRenewalPrice": 4.43,
+    "regularTransferPrice": 4.43
+  },
+  {
+    "extension": ".co.je",
+    "registrationPrice": 36.35,
+    "renewalPrice": 36.35,
+    "transferPrice": 36.35,
+    "regularRegistrationPrice": 36.35,
+    "regularRenewalPrice": 36.35,
+    "regularTransferPrice": 36.35
+  },
+  {
+    "extension": ".co.uk",
+    "registrationPrice": 5.66,
+    "renewalPrice": 5.66,
+    "transferPrice": 0,
+    "regularRegistrationPrice": 5.66,
+    "regularRenewalPrice": 5.66,
+    "regularTransferPrice": 0
+  },
+  {
+    "extension": ".coach",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".codes",
+    "registrationPrice": 4.61,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".coffee",
+    "registrationPrice": 6.67,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".college",
+    "registrationPrice": 4.82,
+    "renewalPrice": 46.84,
+    "transferPrice": 46.84,
+    "regularRegistrationPrice": 46.84,
+    "regularRenewalPrice": 46.84,
+    "regularTransferPrice": 46.84
+  },
+  {
+    "extension": ".com",
+    "registrationPrice": 9.73,
+    "renewalPrice": 9.73,
+    "transferPrice": 9.73,
+    "regularRegistrationPrice": 9.73,
+    "regularRenewalPrice": 9.73,
+    "regularTransferPrice": 9.73
+  },
+  {
+    "extension": ".com.ai",
+    "registrationPrice": 74.22,
+    "renewalPrice": 81.82,
+    "transferPrice": 144.49,
+    "regularRegistrationPrice": 74.22,
+    "regularRenewalPrice": 81.82,
+    "regularTransferPrice": 144.49
+  },
+  {
+    "extension": ".com.de",
+    "registrationPrice": 4.68,
+    "renewalPrice": 5.28,
+    "transferPrice": 4.68,
+    "regularRegistrationPrice": 4.85,
+    "regularRenewalPrice": 5.46,
+    "regularTransferPrice": 4.85
+  },
+  {
+    "extension": ".com.se",
+    "registrationPrice": 8.87,
+    "renewalPrice": 8.87,
+    "transferPrice": 8.13,
+    "regularRegistrationPrice": 9.2,
+    "regularRenewalPrice": 9.2,
+    "regularTransferPrice": 8.46
+  },
+  {
+    "extension": ".community",
+    "registrationPrice": 15.94,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".company",
+    "registrationPrice": 3.07,
+    "renewalPrice": 8.73,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 8.73,
+    "regularRenewalPrice": 8.73,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".compare",
+    "registrationPrice": 21.09,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".computer",
+    "registrationPrice": 10.79,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".condos",
+    "registrationPrice": 36.54,
+    "renewalPrice": 36.54,
+    "transferPrice": 36.54,
+    "regularRegistrationPrice": 36.54,
+    "regularRenewalPrice": 36.54,
+    "regularTransferPrice": 36.54
+  },
+  {
+    "extension": ".construction",
+    "registrationPrice": 8.73,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".consulting",
+    "registrationPrice": 15.94,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".contact",
+    "registrationPrice": 9.76,
+    "renewalPrice": 9.76,
+    "transferPrice": 9.76,
+    "regularRegistrationPrice": 9.76,
+    "regularRenewalPrice": 9.76,
+    "regularTransferPrice": 9.76
+  },
+  {
+    "extension": ".contractors",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".cooking",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".cool",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".country",
+    "registrationPrice": 22.48,
+    "renewalPrice": 22.92,
+    "transferPrice": 21.13,
+    "regularRegistrationPrice": 22.48,
+    "regularRenewalPrice": 22.92,
+    "regularTransferPrice": 21.13
+  },
+  {
+    "extension": ".coupons",
+    "registrationPrice": 4.61,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".courses",
+    "registrationPrice": 15.94,
+    "renewalPrice": 26.87,
+    "transferPrice": 26.87,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.87,
+    "regularTransferPrice": 26.87
+  },
+  {
+    "extension": ".credit",
+    "registrationPrice": 6.67,
+    "renewalPrice": 72.58,
+    "transferPrice": 72.58,
+    "regularRegistrationPrice": 72.58,
+    "regularRenewalPrice": 72.58,
+    "regularTransferPrice": 72.58
+  },
+  {
+    "extension": ".creditcard",
+    "registrationPrice": 5.64,
+    "renewalPrice": 108.63,
+    "transferPrice": 108.63,
+    "regularRegistrationPrice": 108.63,
+    "regularRenewalPrice": 108.63,
+    "regularTransferPrice": 108.63
+  },
+  {
+    "extension": ".cricket",
+    "registrationPrice": 21.07,
+    "renewalPrice": 21.07,
+    "transferPrice": 21.07,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".cruises",
+    "registrationPrice": 8.22,
+    "renewalPrice": 36.54,
+    "transferPrice": 36.54,
+    "regularRegistrationPrice": 36.54,
+    "regularRenewalPrice": 36.54,
+    "regularTransferPrice": 36.54
+  },
+  {
+    "extension": ".cx",
+    "registrationPrice": 15.76,
+    "renewalPrice": 16.75,
+    "transferPrice": 18.42,
+    "regularRegistrationPrice": 15.76,
+    "regularRenewalPrice": 16.75,
+    "regularTransferPrice": 18.42
+  },
+  {
+    "extension": ".cymru",
+    "registrationPrice": 10.16,
+    "renewalPrice": 10.16,
+    "transferPrice": 10.16,
+    "regularRegistrationPrice": 10.16,
+    "regularRenewalPrice": 10.16,
+    "regularTransferPrice": 10.16
+  },
+  {
+    "extension": ".cyou",
+    "registrationPrice": 2.3,
+    "renewalPrice": 8.73,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 4.61,
+    "regularRenewalPrice": 8.73,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".dad",
+    "registrationPrice": 10.98,
+    "renewalPrice": 11.16,
+    "transferPrice": 11.16,
+    "regularRegistrationPrice": 10.98,
+    "regularRenewalPrice": 11.16,
+    "regularTransferPrice": 11.16
+  },
+  {
+    "extension": ".dance",
+    "registrationPrice": 12.85,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".date",
+    "registrationPrice": 3.56,
+    "renewalPrice": 4.59,
+    "transferPrice": 3.56,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".dating",
+    "registrationPrice": 15.94,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".day",
+    "registrationPrice": 8.87,
+    "renewalPrice": 8.87,
+    "transferPrice": 8.87,
+    "regularRegistrationPrice": 8.87,
+    "regularRenewalPrice": 8.87,
+    "regularTransferPrice": 8.87
+  },
+  {
+    "extension": ".de",
+    "registrationPrice": 3.95,
+    "renewalPrice": 4.48,
+    "transferPrice": 4.11,
+    "regularRegistrationPrice": 6.87,
+    "regularRenewalPrice": 4.48,
+    "regularTransferPrice": 4.11
+  },
+  {
+    "extension": ".de.com",
+    "registrationPrice": 14.37,
+    "renewalPrice": 14.37,
+    "transferPrice": 15.95,
+    "regularRegistrationPrice": 14.95,
+    "regularRenewalPrice": 14.95,
+    "regularTransferPrice": 16.54
+  },
+  {
+    "extension": ".dealer",
+    "registrationPrice": 258.98,
+    "renewalPrice": 2060.23,
+    "transferPrice": 2060.23,
+    "regularRegistrationPrice": 2061.25,
+    "regularRenewalPrice": 2060.23,
+    "regularTransferPrice": 2060.23
+  },
+  {
+    "extension": ".deals",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".degree",
+    "registrationPrice": 8.22,
+    "renewalPrice": 33.45,
+    "transferPrice": 33.45,
+    "regularRegistrationPrice": 33.45,
+    "regularRenewalPrice": 33.45,
+    "regularTransferPrice": 33.45
+  },
+  {
+    "extension": ".delivery",
+    "registrationPrice": 5.13,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".democrat",
+    "registrationPrice": 5.64,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".dental",
+    "registrationPrice": 41.69,
+    "renewalPrice": 41.69,
+    "transferPrice": 41.69,
+    "regularRegistrationPrice": 41.69,
+    "regularRenewalPrice": 41.69,
+    "regularTransferPrice": 41.69
+  },
+  {
+    "extension": ".dentist",
+    "registrationPrice": 41.69,
+    "renewalPrice": 41.69,
+    "transferPrice": 41.69,
+    "regularRegistrationPrice": 41.69,
+    "regularRenewalPrice": 41.69,
+    "regularTransferPrice": 41.69
+  },
+  {
+    "extension": ".desi",
+    "registrationPrice": 12.85,
+    "renewalPrice": 12.85,
+    "transferPrice": 12.85,
+    "regularRegistrationPrice": 12.85,
+    "regularRenewalPrice": 12.85,
+    "regularTransferPrice": 12.85
+  },
+  {
+    "extension": ".design",
+    "registrationPrice": 8.73,
+    "renewalPrice": 36.54,
+    "transferPrice": 36.54,
+    "regularRegistrationPrice": 36.54,
+    "regularRenewalPrice": 36.54,
+    "regularTransferPrice": 36.54
+  },
+  {
+    "extension": ".dev",
+    "registrationPrice": 10.87,
+    "renewalPrice": 10.87,
+    "transferPrice": 10.79,
+    "regularRegistrationPrice": 10.87,
+    "regularRenewalPrice": 10.87,
+    "regularTransferPrice": 10.79
+  },
+  {
+    "extension": ".diamonds",
+    "registrationPrice": 39.63,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".diet",
+    "registrationPrice": 103.48,
+    "renewalPrice": 103.48,
+    "transferPrice": 103.48,
+    "regularRegistrationPrice": 103.48,
+    "regularRenewalPrice": 103.48,
+    "regularTransferPrice": 103.48
+  },
+  {
+    "extension": ".digital",
+    "registrationPrice": 2.55,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".direct",
+    "registrationPrice": 10.79,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".directory",
+    "registrationPrice": 3.07,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".discount",
+    "registrationPrice": 4.61,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".doctor",
+    "registrationPrice": 10.79,
+    "renewalPrice": 72.58,
+    "transferPrice": 72.58,
+    "regularRegistrationPrice": 72.58,
+    "regularRenewalPrice": 72.58,
+    "regularTransferPrice": 72.58
+  },
+  {
+    "extension": ".dog",
+    "registrationPrice": 5.64,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".domains",
+    "registrationPrice": 10.79,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".download",
+    "registrationPrice": 3.56,
+    "renewalPrice": 4.59,
+    "transferPrice": 3.56,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".earth",
+    "registrationPrice": 15.94,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".eco",
+    "registrationPrice": 57.14,
+    "renewalPrice": 57.14,
+    "transferPrice": 57.14,
+    "regularRegistrationPrice": 57.14,
+    "regularRenewalPrice": 57.14,
+    "regularTransferPrice": 57.14
+  },
+  {
+    "extension": ".education",
+    "registrationPrice": 15.94,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".email",
+    "registrationPrice": 4.61,
+    "renewalPrice": 19.03,
+    "transferPrice": 19.03,
+    "regularRegistrationPrice": 19.03,
+    "regularRenewalPrice": 19.03,
+    "regularTransferPrice": 19.03
+  },
+  {
+    "extension": ".energy",
+    "registrationPrice": 10.28,
+    "renewalPrice": 72.58,
+    "transferPrice": 72.58,
+    "regularRegistrationPrice": 72.58,
+    "regularRenewalPrice": 72.58,
+    "regularTransferPrice": 72.58
+  },
+  {
+    "extension": ".engineer",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".engineering",
+    "registrationPrice": 12.85,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".enterprises",
+    "registrationPrice": 10.79,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".equipment",
+    "registrationPrice": 10.79,
+    "renewalPrice": 16.97,
+    "transferPrice": 16.97,
+    "regularRegistrationPrice": 16.97,
+    "regularRenewalPrice": 16.97,
+    "regularTransferPrice": 16.97
+  },
+  {
+    "extension": ".esq",
+    "registrationPrice": 21.09,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".estate",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".eu",
+    "registrationPrice": 2.73,
+    "renewalPrice": 5.48,
+    "transferPrice": 5.46,
+    "regularRegistrationPrice": 5.46,
+    "regularRenewalPrice": 5.48,
+    "regularTransferPrice": 5.46
+  },
+  {
+    "extension": ".eu.com",
+    "registrationPrice": 15.99,
+    "renewalPrice": 15.95,
+    "transferPrice": 15.95,
+    "regularRegistrationPrice": 16.58,
+    "regularRenewalPrice": 16.54,
+    "regularTransferPrice": 16.54
+  },
+  {
+    "extension": ".events",
+    "registrationPrice": 6.16,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".exchange",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".expert",
+    "registrationPrice": 5.64,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".exposed",
+    "registrationPrice": 14.91,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".express",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".fail",
+    "registrationPrice": 8.22,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".faith",
+    "registrationPrice": 5.62,
+    "renewalPrice": 7.68,
+    "transferPrice": 5.62,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".family",
+    "registrationPrice": 10.79,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".fan",
+    "registrationPrice": 6.67,
+    "renewalPrice": 31.39,
+    "transferPrice": 31.39,
+    "regularRegistrationPrice": 31.39,
+    "regularRenewalPrice": 31.39,
+    "regularTransferPrice": 31.39
+  },
+  {
+    "extension": ".fans",
+    "registrationPrice": 8.73,
+    "renewalPrice": 8.73,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 8.73,
+    "regularRenewalPrice": 8.73,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".farm",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".fashion",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".feedback",
+    "registrationPrice": 309.45,
+    "renewalPrice": 309.45,
+    "transferPrice": 309.45,
+    "regularRegistrationPrice": 309.45,
+    "regularRenewalPrice": 309.45,
+    "regularTransferPrice": 309.45
+  },
+  {
+    "extension": ".finance",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".financial",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".firm.in",
+    "registrationPrice": 5.28,
+    "renewalPrice": 7.36,
+    "transferPrice": 5.28,
+    "regularRegistrationPrice": 5.28,
+    "regularRenewalPrice": 7.36,
+    "regularTransferPrice": 5.28
+  },
+  {
+    "extension": ".fish",
+    "registrationPrice": 10.79,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".fishing",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".fit",
+    "registrationPrice": 10.79,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".fitness",
+    "registrationPrice": 6.42,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".flights",
+    "registrationPrice": 21.09,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".florist",
+    "registrationPrice": 8.22,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".flowers",
+    "registrationPrice": 103.48,
+    "renewalPrice": 103.48,
+    "transferPrice": 103.48,
+    "regularRegistrationPrice": 103.48,
+    "regularRenewalPrice": 103.48,
+    "regularTransferPrice": 103.48
+  },
+  {
+    "extension": ".fm",
+    "registrationPrice": 87.85,
+    "renewalPrice": 87.85,
+    "transferPrice": 87.85,
+    "regularRegistrationPrice": 87.85,
+    "regularRenewalPrice": 87.85,
+    "regularTransferPrice": 87.85
+  },
+  {
+    "extension": ".fo",
+    "registrationPrice": 49.87,
+    "renewalPrice": 49.82,
+    "transferPrice": 47.71,
+    "regularRegistrationPrice": 49.87,
+    "regularRenewalPrice": 49.82,
+    "regularTransferPrice": 47.71
+  },
+  {
+    "extension": ".foo",
+    "registrationPrice": 10.98,
+    "renewalPrice": 11.16,
+    "transferPrice": 11.16,
+    "regularRegistrationPrice": 10.98,
+    "regularRenewalPrice": 11.16,
+    "regularTransferPrice": 11.16
+  },
+  {
+    "extension": ".football",
+    "registrationPrice": 10.79,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".forex",
+    "registrationPrice": 10.79,
+    "renewalPrice": 31.39,
+    "transferPrice": 31.39,
+    "regularRegistrationPrice": 31.39,
+    "regularRenewalPrice": 31.39,
+    "regularTransferPrice": 31.39
+  },
+  {
+    "extension": ".forsale",
+    "registrationPrice": 10.79,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".forum",
+    "registrationPrice": 31.39,
+    "renewalPrice": 31.39,
+    "transferPrice": 31.39,
+    "regularRegistrationPrice": 31.39,
+    "regularRenewalPrice": 31.39,
+    "regularTransferPrice": 31.39
+  },
+  {
+    "extension": ".foundation",
+    "registrationPrice": 6.67,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".fun",
+    "registrationPrice": 2.55,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".fund",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".furniture",
+    "registrationPrice": 8.32,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".futbol",
+    "registrationPrice": 9.25,
+    "renewalPrice": 9.25,
+    "transferPrice": 9.25,
+    "regularRegistrationPrice": 9.25,
+    "regularRenewalPrice": 9.25,
+    "regularTransferPrice": 9.25
+  },
+  {
+    "extension": ".fyi",
+    "registrationPrice": 8.22,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".gallery",
+    "registrationPrice": 15.94,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".game",
+    "registrationPrice": 309.45,
+    "renewalPrice": 309.77,
+    "transferPrice": 309.45,
+    "regularRegistrationPrice": 309.45,
+    "regularRenewalPrice": 309.77,
+    "regularTransferPrice": 309.45
+  },
+  {
+    "extension": ".games",
+    "registrationPrice": 10.79,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".garden",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".gay",
+    "registrationPrice": 2.04,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".gb.net",
+    "registrationPrice": 6.85,
+    "renewalPrice": 7.94,
+    "transferPrice": 7.94,
+    "regularRegistrationPrice": 7.74,
+    "regularRenewalPrice": 8.84,
+    "regularTransferPrice": 8.84
+  },
+  {
+    "extension": ".gen.in",
+    "registrationPrice": 5.28,
+    "renewalPrice": 7.36,
+    "transferPrice": 5.28,
+    "regularRegistrationPrice": 5.28,
+    "regularRenewalPrice": 7.36,
+    "regularTransferPrice": 5.28
+  },
+  {
+    "extension": ".gg",
+    "registrationPrice": 51.8,
+    "renewalPrice": 51.8,
+    "transferPrice": 51.8,
+    "regularRegistrationPrice": 51.8,
+    "regularRenewalPrice": 51.8,
+    "regularTransferPrice": 51.8
+  },
+  {
+    "extension": ".gift",
+    "registrationPrice": 14.22,
+    "renewalPrice": 14.98,
+    "transferPrice": 14.22,
+    "regularRegistrationPrice": 14.22,
+    "regularRenewalPrice": 14.98,
+    "regularTransferPrice": 14.22
+  },
+  {
+    "extension": ".gifts",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".gives",
+    "registrationPrice": 6.67,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".giving",
+    "registrationPrice": 6.67,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".glass",
+    "registrationPrice": 39.63,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".global",
+    "registrationPrice": 21.09,
+    "renewalPrice": 54.56,
+    "transferPrice": 54.56,
+    "regularRegistrationPrice": 54.56,
+    "regularRenewalPrice": 54.56,
+    "regularTransferPrice": 54.56
+  },
+  {
+    "extension": ".gmbh",
+    "registrationPrice": 22.64,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".gold",
+    "registrationPrice": 5.64,
+    "renewalPrice": 72.58,
+    "transferPrice": 72.58,
+    "regularRegistrationPrice": 72.58,
+    "regularRenewalPrice": 72.58,
+    "regularTransferPrice": 72.58
+  },
+  {
+    "extension": ".golf",
+    "registrationPrice": 4.61,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".gr.com",
+    "registrationPrice": 14.68,
+    "renewalPrice": 14.94,
+    "transferPrice": 14.63,
+    "regularRegistrationPrice": 15.17,
+    "regularRenewalPrice": 15.44,
+    "regularTransferPrice": 15.13
+  },
+  {
+    "extension": ".graphics",
+    "registrationPrice": 15.94,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".gratis",
+    "registrationPrice": 14.91,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".green",
+    "registrationPrice": 5.64,
+    "renewalPrice": 54.56,
+    "transferPrice": 54.56,
+    "regularRegistrationPrice": 54.56,
+    "regularRenewalPrice": 54.56,
+    "regularTransferPrice": 54.56
+  },
+  {
+    "extension": ".gripe",
+    "registrationPrice": 22.64,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".group",
+    "registrationPrice": 5.13,
+    "renewalPrice": 12.85,
+    "transferPrice": 12.85,
+    "regularRegistrationPrice": 12.85,
+    "regularRenewalPrice": 12.85,
+    "regularTransferPrice": 12.85
+  },
+  {
+    "extension": ".guide",
+    "registrationPrice": 11.82,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".guitars",
+    "registrationPrice": 103.48,
+    "renewalPrice": 103.48,
+    "transferPrice": 103.48,
+    "regularRegistrationPrice": 103.48,
+    "regularRenewalPrice": 103.48,
+    "regularTransferPrice": 103.48
+  },
+  {
+    "extension": ".guru",
+    "registrationPrice": 2.55,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".hair",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".haus",
+    "registrationPrice": 10.79,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".health",
+    "registrationPrice": 12.88,
+    "renewalPrice": 51.99,
+    "transferPrice": 51.99,
+    "regularRegistrationPrice": 51.99,
+    "regularRenewalPrice": 51.99,
+    "regularTransferPrice": 51.99
+  },
+  {
+    "extension": ".healthcare",
+    "registrationPrice": 39.63,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".help",
+    "registrationPrice": 5.64,
+    "renewalPrice": 23.15,
+    "transferPrice": 23.15,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 23.15,
+    "regularTransferPrice": 23.15
+  },
+  {
+    "extension": ".hiphop",
+    "registrationPrice": 22.98,
+    "renewalPrice": 23.93,
+    "transferPrice": 21.98,
+    "regularRegistrationPrice": 22.98,
+    "regularRenewalPrice": 23.93,
+    "regularTransferPrice": 21.98
+  },
+  {
+    "extension": ".hiv",
+    "registrationPrice": 184.98,
+    "renewalPrice": 184.84,
+    "transferPrice": 184.98,
+    "regularRegistrationPrice": 184.98,
+    "regularRenewalPrice": 184.84,
+    "regularTransferPrice": 184.98
+  },
+  {
+    "extension": ".hockey",
+    "registrationPrice": 8.22,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".holdings",
+    "registrationPrice": 39.63,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".holiday",
+    "registrationPrice": 5.64,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".homes",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".horse",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".hospital",
+    "registrationPrice": 39.63,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".host",
+    "registrationPrice": 4.61,
+    "renewalPrice": 67.44,
+    "transferPrice": 67.44,
+    "regularRegistrationPrice": 67.44,
+    "regularRenewalPrice": 67.44,
+    "regularTransferPrice": 67.44
+  },
+  {
+    "extension": ".hosting",
+    "registrationPrice": 309.45,
+    "renewalPrice": 309.77,
+    "transferPrice": 309.45,
+    "regularRegistrationPrice": 309.45,
+    "regularRenewalPrice": 309.77,
+    "regularTransferPrice": 309.45
+  },
+  {
+    "extension": ".house",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".how",
+    "registrationPrice": 21.09,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".hu.net",
+    "registrationPrice": 26.49,
+    "renewalPrice": 26.49,
+    "transferPrice": 26.49,
+    "regularRegistrationPrice": 27.57,
+    "regularRenewalPrice": 27.57,
+    "regularTransferPrice": 27.57
+  },
+  {
+    "extension": ".icu",
+    "registrationPrice": 2.54,
+    "renewalPrice": 8.73,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 5.64,
+    "regularRenewalPrice": 8.73,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".id",
+    "registrationPrice": 18.87,
+    "renewalPrice": 18.87,
+    "transferPrice": 18.87,
+    "regularRegistrationPrice": 18.87,
+    "regularRenewalPrice": 18.87,
+    "regularTransferPrice": 18.87
+  },
+  {
+    "extension": ".immo",
+    "registrationPrice": 5.64,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".immobilien",
+    "registrationPrice": 8.22,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".in",
+    "registrationPrice": 6.45,
+    "renewalPrice": 6.45,
+    "transferPrice": 6.45,
+    "regularRegistrationPrice": 6.45,
+    "regularRenewalPrice": 6.45,
+    "regularTransferPrice": 6.45
+  },
+  {
+    "extension": ".in.net",
+    "registrationPrice": 6.49,
+    "renewalPrice": 6.49,
+    "transferPrice": 6.49,
+    "regularRegistrationPrice": 6.49,
+    "regularRenewalPrice": 6.49,
+    "regularTransferPrice": 6.49
+  },
+  {
+    "extension": ".inc",
+    "registrationPrice": 2060.23,
+    "renewalPrice": 2060.23,
+    "transferPrice": 2060.23,
+    "regularRegistrationPrice": 2060.23,
+    "regularRenewalPrice": 2060.23,
+    "regularTransferPrice": 2060.23
+  },
+  {
+    "extension": ".ind.in",
+    "registrationPrice": 5.28,
+    "renewalPrice": 7.36,
+    "transferPrice": 5.28,
+    "regularRegistrationPrice": 5.28,
+    "regularRenewalPrice": 7.36,
+    "regularTransferPrice": 5.28
+  },
+  {
+    "extension": ".industries",
+    "registrationPrice": 9.51,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".info",
+    "registrationPrice": 3.07,
+    "renewalPrice": 16.97,
+    "transferPrice": 16.97,
+    "regularRegistrationPrice": 16.97,
+    "regularRenewalPrice": 16.97,
+    "regularTransferPrice": 16.97
+  },
+  {
+    "extension": ".ink",
+    "registrationPrice": 2.04,
+    "renewalPrice": 20.06,
+    "transferPrice": 20.06,
+    "regularRegistrationPrice": 20.06,
+    "regularRenewalPrice": 20.06,
+    "regularTransferPrice": 20.06
+  },
+  {
+    "extension": ".institute",
+    "registrationPrice": 5.64,
+    "renewalPrice": 16.97,
+    "transferPrice": 16.97,
+    "regularRegistrationPrice": 16.97,
+    "regularRenewalPrice": 16.97,
+    "regularTransferPrice": 16.97
+  },
+  {
+    "extension": ".insure",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".international",
+    "registrationPrice": 6.67,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".investments",
+    "registrationPrice": 10.79,
+    "renewalPrice": 77.73,
+    "transferPrice": 77.73,
+    "regularRegistrationPrice": 77.73,
+    "regularRenewalPrice": 77.73,
+    "regularTransferPrice": 77.73
+  },
+  {
+    "extension": ".io",
+    "registrationPrice": 37.38,
+    "renewalPrice": 37.38,
+    "transferPrice": 37.38,
+    "regularRegistrationPrice": 46.65,
+    "regularRenewalPrice": 46.65,
+    "regularTransferPrice": 46.65
+  },
+  {
+    "extension": ".irish",
+    "registrationPrice": 5.64,
+    "renewalPrice": 11.31,
+    "transferPrice": 11.31,
+    "regularRegistrationPrice": 11.31,
+    "regularRenewalPrice": 11.31,
+    "regularTransferPrice": 11.31
+  },
+  {
+    "extension": ".je",
+    "registrationPrice": 51.8,
+    "renewalPrice": 51.8,
+    "transferPrice": 51.8,
+    "regularRegistrationPrice": 51.8,
+    "regularRenewalPrice": 51.8,
+    "regularTransferPrice": 51.8
+  },
+  {
+    "extension": ".jetzt",
+    "registrationPrice": 5.64,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".jewelry",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".jobs",
+    "registrationPrice": 112.89,
+    "renewalPrice": 128.95,
+    "transferPrice": 98.99,
+    "regularRegistrationPrice": 112.89,
+    "regularRenewalPrice": 128.95,
+    "regularTransferPrice": 98.99
+  },
+  {
+    "extension": ".jp.net",
+    "registrationPrice": 7.87,
+    "renewalPrice": 7.87,
+    "transferPrice": 7.87,
+    "regularRegistrationPrice": 7.87,
+    "regularRenewalPrice": 7.87,
+    "regularTransferPrice": 7.87
+  },
+  {
+    "extension": ".jpn.com",
+    "registrationPrice": 31.87,
+    "renewalPrice": 31.87,
+    "transferPrice": 31.87,
+    "regularRegistrationPrice": 31.87,
+    "regularRenewalPrice": 31.87,
+    "regularTransferPrice": 31.87
+  },
+  {
+    "extension": ".juegos",
+    "registrationPrice": 309.45,
+    "renewalPrice": 319.94,
+    "transferPrice": 309.45,
+    "regularRegistrationPrice": 309.45,
+    "regularRenewalPrice": 319.94,
+    "regularTransferPrice": 309.45
+  },
+  {
+    "extension": ".kaufen",
+    "registrationPrice": 5.64,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".kids",
+    "registrationPrice": 10.79,
+    "renewalPrice": 19.98,
+    "transferPrice": 19.03,
+    "regularRegistrationPrice": 19.03,
+    "regularRenewalPrice": 19.98,
+    "regularTransferPrice": 19.03
+  },
+  {
+    "extension": ".kim",
+    "registrationPrice": 5.64,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".kitchen",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".kyoto",
+    "registrationPrice": 49.98,
+    "renewalPrice": 49.94,
+    "transferPrice": 49.94,
+    "regularRegistrationPrice": 49.98,
+    "regularRenewalPrice": 49.94,
+    "regularTransferPrice": 49.94
+  },
+  {
+    "extension": ".la",
+    "registrationPrice": 26.98,
+    "renewalPrice": 27.94,
+    "transferPrice": 26.98,
+    "regularRegistrationPrice": 26.98,
+    "regularRenewalPrice": 27.94,
+    "regularTransferPrice": 26.98
+  },
+  {
+    "extension": ".land",
+    "registrationPrice": 10.79,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".lat",
+    "registrationPrice": 20.91,
+    "renewalPrice": 20.91,
+    "transferPrice": 20.91,
+    "regularRegistrationPrice": 20.91,
+    "regularRenewalPrice": 20.91,
+    "regularTransferPrice": 20.91
+  },
+  {
+    "extension": ".law",
+    "registrationPrice": 51.99,
+    "renewalPrice": 77.73,
+    "transferPrice": 77.73,
+    "regularRegistrationPrice": 77.73,
+    "regularRenewalPrice": 77.73,
+    "regularTransferPrice": 77.73
+  },
+  {
+    "extension": ".lawyer",
+    "registrationPrice": 41.69,
+    "renewalPrice": 41.69,
+    "transferPrice": 41.69,
+    "regularRegistrationPrice": 41.69,
+    "regularRenewalPrice": 41.69,
+    "regularTransferPrice": 41.69
+  },
+  {
+    "extension": ".lease",
+    "registrationPrice": 8.22,
+    "renewalPrice": 36.54,
+    "transferPrice": 36.54,
+    "regularRegistrationPrice": 36.54,
+    "regularRenewalPrice": 36.54,
+    "regularTransferPrice": 36.54
+  },
+  {
+    "extension": ".legal",
+    "registrationPrice": 5.64,
+    "renewalPrice": 41.69,
+    "transferPrice": 41.69,
+    "regularRegistrationPrice": 41.69,
+    "regularRenewalPrice": 41.69,
+    "regularTransferPrice": 41.69
+  },
+  {
+    "extension": ".lgbt",
+    "registrationPrice": 10.79,
+    "renewalPrice": 36.54,
+    "transferPrice": 36.54,
+    "regularRegistrationPrice": 36.54,
+    "regularRenewalPrice": 36.54,
+    "regularTransferPrice": 36.54
+  },
+  {
+    "extension": ".life",
+    "registrationPrice": 2.04,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".lighting",
+    "registrationPrice": 8.22,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".limited",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".limo",
+    "registrationPrice": 10.79,
+    "renewalPrice": 37.57,
+    "transferPrice": 37.57,
+    "regularRegistrationPrice": 37.57,
+    "regularRenewalPrice": 37.57,
+    "regularTransferPrice": 37.57
+  },
+  {
+    "extension": ".link",
+    "registrationPrice": 7.7,
+    "renewalPrice": 7.7,
+    "transferPrice": 7.7,
+    "regularRegistrationPrice": 7.7,
+    "regularRenewalPrice": 7.7,
+    "regularTransferPrice": 7.7
+  },
+  {
+    "extension": ".live",
+    "registrationPrice": 2.55,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".llc",
+    "registrationPrice": 13.37,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".loan",
+    "registrationPrice": 3.56,
+    "renewalPrice": 4.59,
+    "transferPrice": 3.56,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".loans",
+    "registrationPrice": 10.79,
+    "renewalPrice": 72.58,
+    "transferPrice": 72.58,
+    "regularRegistrationPrice": 72.58,
+    "regularRenewalPrice": 72.58,
+    "regularTransferPrice": 72.58
+  },
+  {
+    "extension": ".lol",
+    "registrationPrice": 1.52,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".london",
+    "registrationPrice": 14.59,
+    "renewalPrice": 26.66,
+    "transferPrice": 26.66,
+    "regularRegistrationPrice": 26.39,
+    "regularRenewalPrice": 26.66,
+    "regularTransferPrice": 26.66
+  },
+  {
+    "extension": ".lotto",
+    "registrationPrice": 1390.81,
+    "renewalPrice": 1390.81,
+    "transferPrice": 1390.81,
+    "regularRegistrationPrice": 1390.81,
+    "regularRenewalPrice": 1390.81,
+    "regularTransferPrice": 1390.81
+  },
+  {
+    "extension": ".love",
+    "registrationPrice": 8.73,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".ltd",
+    "registrationPrice": 6.67,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".ltda",
+    "registrationPrice": 29.33,
+    "renewalPrice": 33.93,
+    "transferPrice": 30.45,
+    "regularRegistrationPrice": 29.33,
+    "regularRenewalPrice": 33.93,
+    "regularTransferPrice": 30.45
+  },
+  {
+    "extension": ".luxe",
+    "registrationPrice": 12.85,
+    "renewalPrice": 12.87,
+    "transferPrice": 12.85,
+    "regularRegistrationPrice": 12.85,
+    "regularRenewalPrice": 12.87,
+    "regularTransferPrice": 12.85
+  },
+  {
+    "extension": ".luxury",
+    "registrationPrice": 13.37,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".maison",
+    "registrationPrice": 10.79,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".makeup",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".management",
+    "registrationPrice": 8.22,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".market",
+    "registrationPrice": 26.24,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".marketing",
+    "registrationPrice": 4.61,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".markets",
+    "registrationPrice": 5.64,
+    "renewalPrice": 10.79,
+    "transferPrice": 10.79,
+    "regularRegistrationPrice": 10.79,
+    "regularRenewalPrice": 10.79,
+    "regularTransferPrice": 10.79
+  },
+  {
+    "extension": ".mba",
+    "registrationPrice": 10.79,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".me",
+    "registrationPrice": 7.58,
+    "renewalPrice": 14.85,
+    "transferPrice": 14.85,
+    "regularRegistrationPrice": 14.85,
+    "regularRenewalPrice": 14.85,
+    "regularTransferPrice": 14.85
+  },
+  {
+    "extension": ".me.uk",
+    "registrationPrice": 5.66,
+    "renewalPrice": 5.66,
+    "transferPrice": 0,
+    "regularRegistrationPrice": 5.66,
+    "regularRenewalPrice": 5.66,
+    "regularTransferPrice": 0
+  },
+  {
+    "extension": ".media",
+    "registrationPrice": 5.13,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".melbourne",
+    "registrationPrice": 21.32,
+    "renewalPrice": 45.94,
+    "transferPrice": 42.94,
+    "regularRegistrationPrice": 41.12,
+    "regularRenewalPrice": 45.94,
+    "regularTransferPrice": 42.94
+  },
+  {
+    "extension": ".memorial",
+    "registrationPrice": 37.05,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".men",
+    "registrationPrice": 3.56,
+    "renewalPrice": 4.59,
+    "transferPrice": 3.56,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".menu",
+    "registrationPrice": 26.98,
+    "renewalPrice": 27.94,
+    "transferPrice": 26.98,
+    "regularRegistrationPrice": 26.98,
+    "regularRenewalPrice": 27.94,
+    "regularTransferPrice": 26.98
+  },
+  {
+    "extension": ".mex.com",
+    "registrationPrice": 10.87,
+    "renewalPrice": 10.87,
+    "transferPrice": 10.87,
+    "regularRegistrationPrice": 10.87,
+    "regularRenewalPrice": 10.87,
+    "regularTransferPrice": 10.87
+  },
+  {
+    "extension": ".miami",
+    "registrationPrice": 9.75,
+    "renewalPrice": 12.85,
+    "transferPrice": 12.85,
+    "regularRegistrationPrice": 13.87,
+    "regularRenewalPrice": 12.85,
+    "regularTransferPrice": 12.85
+  },
+  {
+    "extension": ".mobi",
+    "registrationPrice": 4.1,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".moda",
+    "registrationPrice": 10.79,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".moe",
+    "registrationPrice": 12.98,
+    "renewalPrice": 13.68,
+    "transferPrice": 12.98,
+    "regularRegistrationPrice": 12.98,
+    "regularRenewalPrice": 13.68,
+    "regularTransferPrice": 12.98
+  },
+  {
+    "extension": ".mom",
+    "registrationPrice": 1.52,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".money",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".monster",
+    "registrationPrice": 1.52,
+    "renewalPrice": 9.92,
+    "transferPrice": 9.92,
+    "regularRegistrationPrice": 9.92,
+    "regularRenewalPrice": 9.92,
+    "regularTransferPrice": 9.92
+  },
+  {
+    "extension": ".mortgage",
+    "registrationPrice": 8.22,
+    "renewalPrice": 36.54,
+    "transferPrice": 36.54,
+    "regularRegistrationPrice": 36.54,
+    "regularRenewalPrice": 36.54,
+    "regularTransferPrice": 36.54
+  },
+  {
+    "extension": ".motorcycles",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".mov",
+    "registrationPrice": 10.98,
+    "renewalPrice": 11.16,
+    "transferPrice": 11.16,
+    "regularRegistrationPrice": 10.98,
+    "regularRenewalPrice": 11.16,
+    "regularTransferPrice": 11.16
+  },
+  {
+    "extension": ".movie",
+    "registrationPrice": 26.24,
+    "renewalPrice": 221.92,
+    "transferPrice": 221.92,
+    "regularRegistrationPrice": 221.92,
+    "regularRenewalPrice": 221.92,
+    "regularTransferPrice": 221.92
+  },
+  {
+    "extension": ".nagoya",
+    "registrationPrice": 8.22,
+    "renewalPrice": 8.22,
+    "transferPrice": 8.22,
+    "regularRegistrationPrice": 8.22,
+    "regularRenewalPrice": 8.22,
+    "regularTransferPrice": 8.22
+  },
+  {
+    "extension": ".name",
+    "registrationPrice": 7.9,
+    "renewalPrice": 7.98,
+    "transferPrice": 7.9,
+    "regularRegistrationPrice": 7.9,
+    "regularRenewalPrice": 7.98,
+    "regularTransferPrice": 7.9
+  },
+  {
+    "extension": ".navy",
+    "registrationPrice": 22.64,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".net",
+    "registrationPrice": 11.48,
+    "renewalPrice": 11.48,
+    "transferPrice": 11.48,
+    "regularRegistrationPrice": 11.48,
+    "regularRenewalPrice": 11.48,
+    "regularTransferPrice": 11.48
+  },
+  {
+    "extension": ".net.ai",
+    "registrationPrice": 72.4,
+    "renewalPrice": 81.82,
+    "transferPrice": 152.78,
+    "regularRegistrationPrice": 72.4,
+    "regularRenewalPrice": 81.82,
+    "regularTransferPrice": 152.78
+  },
+  {
+    "extension": ".net.gg",
+    "registrationPrice": 44.98,
+    "renewalPrice": 47.94,
+    "transferPrice": 44.94,
+    "regularRegistrationPrice": 44.98,
+    "regularRenewalPrice": 47.94,
+    "regularTransferPrice": 44.94
+  },
+  {
+    "extension": ".net.in",
+    "registrationPrice": 5.28,
+    "renewalPrice": 7.3,
+    "transferPrice": 5.28,
+    "regularRegistrationPrice": 5.28,
+    "regularRenewalPrice": 7.3,
+    "regularTransferPrice": 5.28
+  },
+  {
+    "extension": ".net.je",
+    "registrationPrice": 44.98,
+    "renewalPrice": 47.94,
+    "transferPrice": 44.94,
+    "regularRegistrationPrice": 44.98,
+    "regularRenewalPrice": 47.94,
+    "regularTransferPrice": 44.94
+  },
+  {
+    "extension": ".network",
+    "registrationPrice": 3.58,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".new",
+    "registrationPrice": 412.87,
+    "renewalPrice": 412.87,
+    "transferPrice": 412.87,
+    "regularRegistrationPrice": 412.87,
+    "regularRenewalPrice": 412.87,
+    "regularTransferPrice": 412.87
+  },
+  {
+    "extension": ".news",
+    "registrationPrice": 6.67,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".nexus",
+    "registrationPrice": 10.98,
+    "renewalPrice": 11.16,
+    "transferPrice": 11.16,
+    "regularRegistrationPrice": 10.98,
+    "regularRenewalPrice": 11.16,
+    "regularTransferPrice": 11.16
+  },
+  {
+    "extension": ".ngo",
+    "registrationPrice": 16.98,
+    "renewalPrice": 18.94,
+    "transferPrice": 17.45,
+    "regularRegistrationPrice": 16.98,
+    "regularRenewalPrice": 18.94,
+    "regularTransferPrice": 17.45
+  },
+  {
+    "extension": ".ninja",
+    "registrationPrice": 8.22,
+    "renewalPrice": 16.97,
+    "transferPrice": 16.97,
+    "regularRegistrationPrice": 16.97,
+    "regularRenewalPrice": 16.97,
+    "regularTransferPrice": 16.97
+  },
+  {
+    "extension": ".nl",
+    "registrationPrice": 6.43,
+    "renewalPrice": 6.43,
+    "transferPrice": 6.43,
+    "regularRegistrationPrice": 6.47,
+    "regularRenewalPrice": 6.47,
+    "regularTransferPrice": 6.47
+  },
+  {
+    "extension": ".nrw",
+    "registrationPrice": 35.98,
+    "renewalPrice": 37.94,
+    "transferPrice": 33.81,
+    "regularRegistrationPrice": 35.98,
+    "regularRenewalPrice": 37.94,
+    "regularTransferPrice": 33.81
+  },
+  {
+    "extension": ".nyc",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".observer",
+    "registrationPrice": 8.73,
+    "renewalPrice": 8.73,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 8.73,
+    "regularRenewalPrice": 8.73,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".off.ai",
+    "registrationPrice": 83.98,
+    "renewalPrice": 83.93,
+    "transferPrice": 167.95,
+    "regularRegistrationPrice": 83.98,
+    "regularRenewalPrice": 83.93,
+    "regularTransferPrice": 167.95
+  },
+  {
+    "extension": ".one",
+    "registrationPrice": 1.51,
+    "renewalPrice": 13.88,
+    "transferPrice": 13.88,
+    "regularRegistrationPrice": 13.88,
+    "regularRenewalPrice": 13.88,
+    "regularTransferPrice": 13.88
+  },
+  {
+    "extension": ".ong",
+    "registrationPrice": 16.98,
+    "renewalPrice": 18.94,
+    "transferPrice": 17.45,
+    "regularRegistrationPrice": 16.98,
+    "regularRenewalPrice": 18.94,
+    "regularTransferPrice": 17.45
+  },
+  {
+    "extension": ".online",
+    "registrationPrice": 1.94,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".ooo",
+    "registrationPrice": 21.08,
+    "renewalPrice": 21.08,
+    "transferPrice": 21.08,
+    "regularRegistrationPrice": 21.08,
+    "regularRenewalPrice": 21.08,
+    "regularTransferPrice": 21.08
+  },
+  {
+    "extension": ".org",
+    "registrationPrice": 6.6,
+    "renewalPrice": 10.72,
+    "transferPrice": 10.72,
+    "regularRegistrationPrice": 10.72,
+    "regularRenewalPrice": 10.72,
+    "regularTransferPrice": 10.72
+  },
+  {
+    "extension": ".org.ai",
+    "registrationPrice": 72.4,
+    "renewalPrice": 81.82,
+    "transferPrice": 152.78,
+    "regularRegistrationPrice": 72.4,
+    "regularRenewalPrice": 81.82,
+    "regularTransferPrice": 152.78
+  },
+  {
+    "extension": ".org.gg",
+    "registrationPrice": 44.98,
+    "renewalPrice": 47.94,
+    "transferPrice": 44.94,
+    "regularRegistrationPrice": 44.98,
+    "regularRenewalPrice": 47.94,
+    "regularTransferPrice": 44.94
+  },
+  {
+    "extension": ".org.in",
+    "registrationPrice": 5.28,
+    "renewalPrice": 7.3,
+    "transferPrice": 5.28,
+    "regularRegistrationPrice": 5.28,
+    "regularRenewalPrice": 7.3,
+    "regularTransferPrice": 5.28
+  },
+  {
+    "extension": ".org.je",
+    "registrationPrice": 44.98,
+    "renewalPrice": 47.94,
+    "transferPrice": 36.35,
+    "regularRegistrationPrice": 44.98,
+    "regularRenewalPrice": 47.94,
+    "regularTransferPrice": 36.35
+  },
+  {
+    "extension": ".org.uk",
+    "registrationPrice": 5.66,
+    "renewalPrice": 5.66,
+    "transferPrice": 0,
+    "regularRegistrationPrice": 5.66,
+    "regularRenewalPrice": 5.66,
+    "regularTransferPrice": 0
+  },
+  {
+    "extension": ".organic",
+    "registrationPrice": 10.79,
+    "renewalPrice": 57.14,
+    "transferPrice": 57.14,
+    "regularRegistrationPrice": 57.14,
+    "regularRenewalPrice": 57.14,
+    "regularTransferPrice": 57.14
+  },
+  {
+    "extension": ".osaka",
+    "registrationPrice": 26.68,
+    "renewalPrice": 26.98,
+    "transferPrice": 26.68,
+    "regularRegistrationPrice": 26.68,
+    "regularRenewalPrice": 26.98,
+    "regularTransferPrice": 26.68
+  },
+  {
+    "extension": ".page",
+    "registrationPrice": 8.73,
+    "renewalPrice": 8.87,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 8.73,
+    "regularRenewalPrice": 8.87,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".partners",
+    "registrationPrice": 13.37,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".parts",
+    "registrationPrice": 9.51,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".party",
+    "registrationPrice": 3.56,
+    "renewalPrice": 4.59,
+    "transferPrice": 3.56,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".pet",
+    "registrationPrice": 8.22,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".phd",
+    "registrationPrice": 21.48,
+    "renewalPrice": 26.94,
+    "transferPrice": 22.45,
+    "regularRegistrationPrice": 21.48,
+    "regularRenewalPrice": 26.94,
+    "regularTransferPrice": 22.45
+  },
+  {
+    "extension": ".photo",
+    "registrationPrice": 21.09,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.13,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.13
+  },
+  {
+    "extension": ".photography",
+    "registrationPrice": 8.22,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".photos",
+    "registrationPrice": 5.64,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".pics",
+    "registrationPrice": 1.52,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".pictures",
+    "registrationPrice": 5.64,
+    "renewalPrice": 8.22,
+    "transferPrice": 8.22,
+    "regularRegistrationPrice": 8.22,
+    "regularRenewalPrice": 8.22,
+    "regularTransferPrice": 8.22
+  },
+  {
+    "extension": ".pink",
+    "registrationPrice": 8.22,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".pizza",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".place",
+    "registrationPrice": 12.85,
+    "renewalPrice": 12.85,
+    "transferPrice": 12.85,
+    "regularRegistrationPrice": 12.85,
+    "regularRenewalPrice": 12.85,
+    "regularTransferPrice": 12.85
+  },
+  {
+    "extension": ".plumbing",
+    "registrationPrice": 8.22,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".plus",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".poker",
+    "registrationPrice": 8.22,
+    "renewalPrice": 44.26,
+    "transferPrice": 44.26,
+    "regularRegistrationPrice": 44.26,
+    "regularRenewalPrice": 44.26,
+    "regularTransferPrice": 44.26
+  },
+  {
+    "extension": ".porn",
+    "registrationPrice": 53.01,
+    "renewalPrice": 77.73,
+    "transferPrice": 77.73,
+    "regularRegistrationPrice": 78.75,
+    "regularRenewalPrice": 77.73,
+    "regularTransferPrice": 77.73
+  },
+  {
+    "extension": ".press",
+    "registrationPrice": 4.61,
+    "renewalPrice": 50.96,
+    "transferPrice": 50.96,
+    "regularRegistrationPrice": 50.96,
+    "regularRenewalPrice": 50.96,
+    "regularTransferPrice": 50.96
+  },
+  {
+    "extension": ".pro",
+    "registrationPrice": 2.55,
+    "renewalPrice": 16.97,
+    "transferPrice": 16.97,
+    "regularRegistrationPrice": 16.97,
+    "regularRenewalPrice": 16.97,
+    "regularTransferPrice": 16.97
+  },
+  {
+    "extension": ".productions",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".prof",
+    "registrationPrice": 21.48,
+    "renewalPrice": 26.94,
+    "transferPrice": 22.45,
+    "regularRegistrationPrice": 21.48,
+    "regularRenewalPrice": 26.94,
+    "regularTransferPrice": 22.45
+  },
+  {
+    "extension": ".promo",
+    "registrationPrice": 10.79,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".properties",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".property",
+    "registrationPrice": 103.48,
+    "renewalPrice": 103.48,
+    "transferPrice": 103.48,
+    "regularRegistrationPrice": 103.48,
+    "regularRenewalPrice": 103.48,
+    "regularTransferPrice": 103.48
+  },
+  {
+    "extension": ".protection",
+    "registrationPrice": 2060.23,
+    "renewalPrice": 2060.23,
+    "transferPrice": 2060.23,
+    "regularRegistrationPrice": 2060.23,
+    "regularRenewalPrice": 2060.23,
+    "regularTransferPrice": 2060.23
+  },
+  {
+    "extension": ".pub",
+    "registrationPrice": 24.18,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".pw",
+    "registrationPrice": 4.43,
+    "renewalPrice": 15.76,
+    "transferPrice": 15.76,
+    "regularRegistrationPrice": 15.76,
+    "regularRenewalPrice": 15.76,
+    "regularTransferPrice": 15.76
+  },
+  {
+    "extension": ".qpon",
+    "registrationPrice": 21.04,
+    "renewalPrice": 21.04,
+    "transferPrice": 21.04,
+    "regularRegistrationPrice": 21.04,
+    "regularRenewalPrice": 21.04,
+    "regularTransferPrice": 21.04
+  },
+  {
+    "extension": ".quest",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".racing",
+    "registrationPrice": 5.62,
+    "renewalPrice": 7.68,
+    "transferPrice": 5.62,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".radio.am",
+    "registrationPrice": 3.7,
+    "renewalPrice": 12.67,
+    "transferPrice": 12.67,
+    "regularRegistrationPrice": 13.48,
+    "regularRenewalPrice": 12.67,
+    "regularTransferPrice": 12.67
+  },
+  {
+    "extension": ".radio.fm",
+    "registrationPrice": 3.7,
+    "renewalPrice": 12.67,
+    "transferPrice": 12.67,
+    "regularRegistrationPrice": 13.48,
+    "regularRenewalPrice": 12.67,
+    "regularTransferPrice": 12.67
+  },
+  {
+    "extension": ".realty",
+    "registrationPrice": 280.62,
+    "renewalPrice": 280.62,
+    "transferPrice": 280.62,
+    "regularRegistrationPrice": 280.62,
+    "regularRenewalPrice": 280.62,
+    "regularTransferPrice": 280.62
+  },
+  {
+    "extension": ".recipes",
+    "registrationPrice": 6.42,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".red",
+    "registrationPrice": 8.22,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".rehab",
+    "registrationPrice": 8.22,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".reise",
+    "registrationPrice": 68.47,
+    "renewalPrice": 68.47,
+    "transferPrice": 68.47,
+    "regularRegistrationPrice": 68.47,
+    "regularRenewalPrice": 68.47,
+    "regularTransferPrice": 68.47
+  },
+  {
+    "extension": ".reisen",
+    "registrationPrice": 14.91,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".rent",
+    "registrationPrice": 4.82,
+    "renewalPrice": 46.84,
+    "transferPrice": 46.84,
+    "regularRegistrationPrice": 46.84,
+    "regularRenewalPrice": 46.84,
+    "regularTransferPrice": 46.84
+  },
+  {
+    "extension": ".rentals",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".repair",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".report",
+    "registrationPrice": 5.64,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".republican",
+    "registrationPrice": 5.64,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".rest",
+    "registrationPrice": 3.58,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".restaurant",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".review",
+    "registrationPrice": 5.62,
+    "renewalPrice": 7.68,
+    "transferPrice": 5.62,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".reviews",
+    "registrationPrice": 4.61,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".rip",
+    "registrationPrice": 4.61,
+    "renewalPrice": 13.88,
+    "transferPrice": 13.88,
+    "regularRegistrationPrice": 13.88,
+    "regularRenewalPrice": 13.88,
+    "regularTransferPrice": 13.88
+  },
+  {
+    "extension": ".rocks",
+    "registrationPrice": 5.64,
+    "renewalPrice": 12.85,
+    "transferPrice": 12.85,
+    "regularRegistrationPrice": 12.85,
+    "regularRenewalPrice": 12.85,
+    "regularTransferPrice": 12.85
+  },
+  {
+    "extension": ".rodeo",
+    "registrationPrice": 3.07,
+    "renewalPrice": 5.64,
+    "transferPrice": 5.64,
+    "regularRegistrationPrice": 5.64,
+    "regularRenewalPrice": 5.64,
+    "regularTransferPrice": 5.64
+  },
+  {
+    "extension": ".rsvp",
+    "registrationPrice": 8.73,
+    "renewalPrice": 8.73,
+    "transferPrice": 8.73,
+    "regularRegistrationPrice": 8.73,
+    "regularRenewalPrice": 8.73,
+    "regularTransferPrice": 8.73
+  },
+  {
+    "extension": ".ru.com",
+    "registrationPrice": 61.07,
+    "renewalPrice": 61.07,
+    "transferPrice": 61.07,
+    "regularRegistrationPrice": 61.07,
+    "regularRenewalPrice": 61.07,
+    "regularTransferPrice": 61.07
+  },
+  {
+    "extension": ".rugby",
+    "registrationPrice": 41.98,
+    "renewalPrice": 42.94,
+    "transferPrice": 42.49,
+    "regularRegistrationPrice": 41.98,
+    "regularRenewalPrice": 42.94,
+    "regularTransferPrice": 42.49
+  },
+  {
+    "extension": ".run",
+    "registrationPrice": 3.07,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".sa.com",
+    "registrationPrice": 153.76,
+    "renewalPrice": 153.76,
+    "transferPrice": 153.76,
+    "regularRegistrationPrice": 153.76,
+    "regularRenewalPrice": 153.76,
+    "regularTransferPrice": 153.76
+  },
+  {
+    "extension": ".saarland",
+    "registrationPrice": 20.73,
+    "renewalPrice": 20.87,
+    "transferPrice": 20.73,
+    "regularRegistrationPrice": 20.73,
+    "regularRenewalPrice": 20.87,
+    "regularTransferPrice": 20.73
+  },
+  {
+    "extension": ".sale",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".salon",
+    "registrationPrice": 8.22,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".sarl",
+    "registrationPrice": 22.64,
+    "renewalPrice": 22.64,
+    "transferPrice": 22.64,
+    "regularRegistrationPrice": 22.64,
+    "regularRenewalPrice": 22.64,
+    "regularTransferPrice": 22.64
+  },
+  {
+    "extension": ".sbs",
+    "registrationPrice": 1.2,
+    "renewalPrice": 6.67,
+    "transferPrice": 6.67,
+    "regularRegistrationPrice": 6.67,
+    "regularRenewalPrice": 6.67,
+    "regularTransferPrice": 6.67
+  },
+  {
+    "extension": ".school",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".schule",
+    "registrationPrice": 8.22,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".science",
+    "registrationPrice": 5.62,
+    "renewalPrice": 7.68,
+    "transferPrice": 5.62,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".se.net",
+    "registrationPrice": 29.98,
+    "renewalPrice": 29.94,
+    "transferPrice": 29.94,
+    "regularRegistrationPrice": 31.06,
+    "regularRenewalPrice": 31.02,
+    "regularTransferPrice": 31.02
+  },
+  {
+    "extension": ".security",
+    "registrationPrice": 2060.23,
+    "renewalPrice": 2060.23,
+    "transferPrice": 2060.23,
+    "regularRegistrationPrice": 2060.23,
+    "regularRenewalPrice": 2060.23,
+    "regularTransferPrice": 2060.23
+  },
+  {
+    "extension": ".select",
+    "registrationPrice": 21.09,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".services",
+    "registrationPrice": 4.61,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".sex",
+    "registrationPrice": 53.01,
+    "renewalPrice": 77.73,
+    "transferPrice": 77.73,
+    "regularRegistrationPrice": 78.75,
+    "regularRenewalPrice": 77.73,
+    "regularTransferPrice": 77.73
+  },
+  {
+    "extension": ".sexy",
+    "registrationPrice": 2575.16,
+    "renewalPrice": 2575.16,
+    "transferPrice": 2575.16,
+    "regularRegistrationPrice": 2575.16,
+    "regularRenewalPrice": 2575.16,
+    "regularTransferPrice": 2575.16
+  },
+  {
+    "extension": ".sh",
+    "registrationPrice": 31.2,
+    "renewalPrice": 31.2,
+    "transferPrice": 31.2,
+    "regularRegistrationPrice": 46.65,
+    "regularRenewalPrice": 46.65,
+    "regularTransferPrice": 46.65
+  },
+  {
+    "extension": ".shiksha",
+    "registrationPrice": 10.79,
+    "renewalPrice": 14.04,
+    "transferPrice": 14.04,
+    "regularRegistrationPrice": 14.04,
+    "regularRenewalPrice": 14.04,
+    "regularTransferPrice": 14.04
+  },
+  {
+    "extension": ".shoes",
+    "registrationPrice": 21.09,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".shop",
+    "registrationPrice": 2.04,
+    "renewalPrice": 25.21,
+    "transferPrice": 25.21,
+    "regularRegistrationPrice": 25.21,
+    "regularRenewalPrice": 25.21,
+    "regularTransferPrice": 25.21
+  },
+  {
+    "extension": ".shopping",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".show",
+    "registrationPrice": 6.67,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".singles",
+    "registrationPrice": 5.64,
+    "renewalPrice": 22.12,
+    "transferPrice": 22.12,
+    "regularRegistrationPrice": 22.12,
+    "regularRenewalPrice": 22.12,
+    "regularTransferPrice": 22.12
+  },
+  {
+    "extension": ".site",
+    "registrationPrice": 1.94,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".ski",
+    "registrationPrice": 21.09,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".skin",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".soccer",
+    "registrationPrice": 10.79,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".social",
+    "registrationPrice": 6.67,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".software",
+    "registrationPrice": 10.79,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".solar",
+    "registrationPrice": 5.64,
+    "renewalPrice": 41.69,
+    "transferPrice": 41.69,
+    "regularRegistrationPrice": 41.69,
+    "regularRenewalPrice": 41.69,
+    "regularTransferPrice": 41.69
+  },
+  {
+    "extension": ".solutions",
+    "registrationPrice": 5.64,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".soy",
+    "registrationPrice": 19.03,
+    "renewalPrice": 19.03,
+    "transferPrice": 19.03,
+    "regularRegistrationPrice": 19.03,
+    "regularRenewalPrice": 19.03,
+    "regularTransferPrice": 19.03
+  },
+  {
+    "extension": ".spa",
+    "registrationPrice": 22.98,
+    "renewalPrice": 24.94,
+    "transferPrice": 22.45,
+    "regularRegistrationPrice": 22.98,
+    "regularRenewalPrice": 24.94,
+    "regularTransferPrice": 22.45
+  },
+  {
+    "extension": ".space",
+    "registrationPrice": 1.11,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".srl",
+    "registrationPrice": 27.32,
+    "renewalPrice": 27.32,
+    "transferPrice": 27.32,
+    "regularRegistrationPrice": 27.32,
+    "regularRenewalPrice": 27.32,
+    "regularTransferPrice": 27.32
+  },
+  {
+    "extension": ".storage",
+    "registrationPrice": 515.43,
+    "renewalPrice": 515.43,
+    "transferPrice": 515.43,
+    "regularRegistrationPrice": 515.43,
+    "regularRenewalPrice": 515.43,
+    "regularTransferPrice": 515.43
+  },
+  {
+    "extension": ".store",
+    "registrationPrice": 2.55,
+    "renewalPrice": 41.69,
+    "transferPrice": 41.69,
+    "regularRegistrationPrice": 41.69,
+    "regularRenewalPrice": 41.69,
+    "regularTransferPrice": 41.69
+  },
+  {
+    "extension": ".stream",
+    "registrationPrice": 3.56,
+    "renewalPrice": 4.59,
+    "transferPrice": 3.56,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".studio",
+    "registrationPrice": 8.22,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".study",
+    "registrationPrice": 15.94,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".style",
+    "registrationPrice": 11.82,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".sucks",
+    "registrationPrice": 217.98,
+    "renewalPrice": 218.94,
+    "transferPrice": 212.45,
+    "regularRegistrationPrice": 217.98,
+    "regularRenewalPrice": 218.94,
+    "regularTransferPrice": 212.45
+  },
+  {
+    "extension": ".supplies",
+    "registrationPrice": 14.91,
+    "renewalPrice": 14.91,
+    "transferPrice": 14.91,
+    "regularRegistrationPrice": 14.91,
+    "regularRenewalPrice": 14.91,
+    "regularTransferPrice": 14.91
+  },
+  {
+    "extension": ".supply",
+    "registrationPrice": 15.94,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".support",
+    "registrationPrice": 4.61,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".surf",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".surgery",
+    "registrationPrice": 37.05,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".sydney",
+    "registrationPrice": 21.32,
+    "renewalPrice": 44.84,
+    "transferPrice": 42.94,
+    "regularRegistrationPrice": 41.12,
+    "regularRenewalPrice": 44.84,
+    "regularTransferPrice": 42.94
+  },
+  {
+    "extension": ".systems",
+    "registrationPrice": 9.76,
+    "renewalPrice": 19.03,
+    "transferPrice": 19.03,
+    "regularRegistrationPrice": 19.03,
+    "regularRenewalPrice": 19.03,
+    "regularTransferPrice": 19.03
+  },
+  {
+    "extension": ".tattoo",
+    "registrationPrice": 2.04,
+    "renewalPrice": 32.94,
+    "transferPrice": 31.39,
+    "regularRegistrationPrice": 31.39,
+    "regularRenewalPrice": 32.94,
+    "regularTransferPrice": 31.39
+  },
+  {
+    "extension": ".tax",
+    "registrationPrice": 8.22,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".taxi",
+    "registrationPrice": 8.22,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".team",
+    "registrationPrice": 3.07,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".tech",
+    "registrationPrice": 36.54,
+    "renewalPrice": 36.54,
+    "transferPrice": 36.54,
+    "regularRegistrationPrice": 36.54,
+    "regularRenewalPrice": 36.54,
+    "regularTransferPrice": 36.54
+  },
+  {
+    "extension": ".technology",
+    "registrationPrice": 6.67,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".tel",
+    "registrationPrice": 9.76,
+    "renewalPrice": 9.76,
+    "transferPrice": 9.76,
+    "regularRegistrationPrice": 9.76,
+    "regularRenewalPrice": 9.76,
+    "regularTransferPrice": 9.76
+  },
+  {
+    "extension": ".tennis",
+    "registrationPrice": 37.05,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".theater",
+    "registrationPrice": 10.79,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".theatre",
+    "registrationPrice": 515.43,
+    "renewalPrice": 515.43,
+    "transferPrice": 515.43,
+    "regularRegistrationPrice": 515.43,
+    "regularRenewalPrice": 515.43,
+    "regularTransferPrice": 515.43
+  },
+  {
+    "extension": ".tickets",
+    "registrationPrice": 360.95,
+    "renewalPrice": 360.95,
+    "transferPrice": 360.95,
+    "regularRegistrationPrice": 360.95,
+    "regularRenewalPrice": 360.95,
+    "regularTransferPrice": 360.95
+  },
+  {
+    "extension": ".tienda",
+    "registrationPrice": 5.64,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".tips",
+    "registrationPrice": 8.22,
+    "renewalPrice": 19.03,
+    "transferPrice": 19.03,
+    "regularRegistrationPrice": 19.03,
+    "regularRenewalPrice": 19.03,
+    "regularTransferPrice": 19.03
+  },
+  {
+    "extension": ".tires",
+    "registrationPrice": 8.22,
+    "renewalPrice": 68.47,
+    "transferPrice": 68.47,
+    "regularRegistrationPrice": 68.47,
+    "regularRenewalPrice": 68.47,
+    "regularTransferPrice": 68.47
+  },
+  {
+    "extension": ".today",
+    "registrationPrice": 2.55,
+    "renewalPrice": 18,
+    "transferPrice": 18,
+    "regularRegistrationPrice": 18,
+    "regularRenewalPrice": 18,
+    "regularTransferPrice": 18
+  },
+  {
+    "extension": ".tokyo",
+    "registrationPrice": 8.22,
+    "renewalPrice": 8.78,
+    "transferPrice": 8.22,
+    "regularRegistrationPrice": 8.22,
+    "regularRenewalPrice": 8.78,
+    "regularTransferPrice": 8.22
+  },
+  {
+    "extension": ".tools",
+    "registrationPrice": 6.67,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".top",
+    "registrationPrice": 1.61,
+    "renewalPrice": 4.29,
+    "transferPrice": 4.29,
+    "regularRegistrationPrice": 4.29,
+    "regularRenewalPrice": 4.29,
+    "regularTransferPrice": 4.29
+  },
+  {
+    "extension": ".tours",
+    "registrationPrice": 5.64,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".town",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".toys",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".trade",
+    "registrationPrice": 3.56,
+    "renewalPrice": 4.59,
+    "transferPrice": 3.56,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".trading",
+    "registrationPrice": 12.85,
+    "renewalPrice": 12.85,
+    "transferPrice": 12.85,
+    "regularRegistrationPrice": 12.85,
+    "regularRenewalPrice": 12.85,
+    "regularTransferPrice": 12.85
+  },
+  {
+    "extension": ".training",
+    "registrationPrice": 8.22,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".travel",
+    "registrationPrice": 21.09,
+    "renewalPrice": 88.03,
+    "transferPrice": 88.03,
+    "regularRegistrationPrice": 88.03,
+    "regularRenewalPrice": 88.03,
+    "regularTransferPrice": 88.03
+  },
+  {
+    "extension": ".tube",
+    "registrationPrice": 11.81,
+    "renewalPrice": 22.92,
+    "transferPrice": 21.98,
+    "regularRegistrationPrice": 22.11,
+    "regularRenewalPrice": 22.92,
+    "regularTransferPrice": 21.98
+  },
+  {
+    "extension": ".tv",
+    "registrationPrice": 26.24,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".uk",
+    "registrationPrice": 5.66,
+    "renewalPrice": 5.66,
+    "transferPrice": 0,
+    "regularRegistrationPrice": 5.66,
+    "regularRenewalPrice": 5.66,
+    "regularTransferPrice": 0
+  },
+  {
+    "extension": ".uk.com",
+    "registrationPrice": 21.58,
+    "renewalPrice": 26.94,
+    "transferPrice": 26.94,
+    "regularRegistrationPrice": 21.58,
+    "regularRenewalPrice": 26.94,
+    "regularTransferPrice": 26.94
+  },
+  {
+    "extension": ".uk.net",
+    "registrationPrice": 21.58,
+    "renewalPrice": 24.94,
+    "transferPrice": 24.94,
+    "regularRegistrationPrice": 21.58,
+    "regularRenewalPrice": 24.94,
+    "regularTransferPrice": 24.94
+  },
+  {
+    "extension": ".university",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".uno",
+    "registrationPrice": 4.61,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".us",
+    "registrationPrice": 3.4,
+    "renewalPrice": 7,
+    "transferPrice": 7,
+    "regularRegistrationPrice": 7,
+    "regularRenewalPrice": 7,
+    "regularTransferPrice": 7
+  },
+  {
+    "extension": ".us.com",
+    "registrationPrice": 15.76,
+    "renewalPrice": 15.87,
+    "transferPrice": 15.87,
+    "regularRegistrationPrice": 15.76,
+    "regularRenewalPrice": 15.87,
+    "regularTransferPrice": 15.87
+  },
+  {
+    "extension": ".us.org",
+    "registrationPrice": 16.68,
+    "renewalPrice": 16.94,
+    "transferPrice": 16.68,
+    "regularRegistrationPrice": 16.68,
+    "regularRenewalPrice": 16.94,
+    "regularTransferPrice": 16.68
+  },
+  {
+    "extension": ".vacations",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".vegas",
+    "registrationPrice": 41.64,
+    "renewalPrice": 41.64,
+    "transferPrice": 41.64,
+    "regularRegistrationPrice": 41.64,
+    "regularRenewalPrice": 41.64,
+    "regularTransferPrice": 41.64
+  },
+  {
+    "extension": ".ventures",
+    "registrationPrice": 10.79,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".vet",
+    "registrationPrice": 26.24,
+    "renewalPrice": 26.24,
+    "transferPrice": 26.24,
+    "regularRegistrationPrice": 26.24,
+    "regularRenewalPrice": 26.24,
+    "regularTransferPrice": 26.24
+  },
+  {
+    "extension": ".viajes",
+    "registrationPrice": 36.54,
+    "renewalPrice": 36.54,
+    "transferPrice": 36.54,
+    "regularRegistrationPrice": 36.54,
+    "regularRenewalPrice": 36.54,
+    "regularTransferPrice": 36.54
+  },
+  {
+    "extension": ".video",
+    "registrationPrice": 8.22,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".villas",
+    "registrationPrice": 10.79,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".vin",
+    "registrationPrice": 5.64,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".vip",
+    "registrationPrice": 4.1,
+    "renewalPrice": 11.82,
+    "transferPrice": 11.82,
+    "regularRegistrationPrice": 11.82,
+    "regularRenewalPrice": 11.82,
+    "regularTransferPrice": 11.82
+  },
+  {
+    "extension": ".vision",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".vodka",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".vote",
+    "registrationPrice": 21.09,
+    "renewalPrice": 54.56,
+    "transferPrice": 54.56,
+    "regularRegistrationPrice": 54.56,
+    "regularRenewalPrice": 54.56,
+    "regularTransferPrice": 54.56
+  },
+  {
+    "extension": ".voto",
+    "registrationPrice": 21.09,
+    "renewalPrice": 51.99,
+    "transferPrice": 51.99,
+    "regularRegistrationPrice": 51.99,
+    "regularRenewalPrice": 51.99,
+    "regularTransferPrice": 51.99
+  },
+  {
+    "extension": ".voyage",
+    "registrationPrice": 5.64,
+    "renewalPrice": 37.05,
+    "transferPrice": 37.05,
+    "regularRegistrationPrice": 37.05,
+    "regularRenewalPrice": 37.05,
+    "regularTransferPrice": 37.05
+  },
+  {
+    "extension": ".wales",
+    "registrationPrice": 10.16,
+    "renewalPrice": 10.16,
+    "transferPrice": 10.16,
+    "regularRegistrationPrice": 10.16,
+    "regularRenewalPrice": 10.16,
+    "regularTransferPrice": 10.16
+  },
+  {
+    "extension": ".wang",
+    "registrationPrice": 7.7,
+    "renewalPrice": 7.7,
+    "transferPrice": 7.7,
+    "regularRegistrationPrice": 7.7,
+    "regularRenewalPrice": 7.7,
+    "regularTransferPrice": 7.7
+  },
+  {
+    "extension": ".watch",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".watches",
+    "registrationPrice": 269.98,
+    "renewalPrice": 269.94,
+    "transferPrice": 263.45,
+    "regularRegistrationPrice": 269.98,
+    "regularRenewalPrice": 269.94,
+    "regularTransferPrice": 263.45
+  },
+  {
+    "extension": ".webcam",
+    "registrationPrice": 10.77,
+    "renewalPrice": 10.77,
+    "transferPrice": 10.77,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".website",
+    "registrationPrice": 1.11,
+    "renewalPrice": 15.94,
+    "transferPrice": 15.94,
+    "regularRegistrationPrice": 15.94,
+    "regularRenewalPrice": 15.94,
+    "regularTransferPrice": 15.94
+  },
+  {
+    "extension": ".wedding",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".wiki",
+    "registrationPrice": 2.04,
+    "renewalPrice": 20.06,
+    "transferPrice": 20.06,
+    "regularRegistrationPrice": 20.06,
+    "regularRenewalPrice": 20.06,
+    "regularTransferPrice": 20.06
+  },
+  {
+    "extension": ".win",
+    "registrationPrice": 3.56,
+    "renewalPrice": 4.59,
+    "transferPrice": 3.56,
+    "regularRegistrationPrice": 21.07,
+    "regularRenewalPrice": 21.07,
+    "regularTransferPrice": 21.07
+  },
+  {
+    "extension": ".wine",
+    "registrationPrice": 5.64,
+    "renewalPrice": 39.63,
+    "transferPrice": 39.63,
+    "regularRegistrationPrice": 39.63,
+    "regularRenewalPrice": 39.63,
+    "regularTransferPrice": 39.63
+  },
+  {
+    "extension": ".work",
+    "registrationPrice": 3.58,
+    "renewalPrice": 6.67,
+    "transferPrice": 6.67,
+    "regularRegistrationPrice": 6.67,
+    "regularRenewalPrice": 6.67,
+    "regularTransferPrice": 6.67
+  },
+  {
+    "extension": ".works",
+    "registrationPrice": 5.13,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".world",
+    "registrationPrice": 2.04,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".wtf",
+    "registrationPrice": 4.61,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".xxx",
+    "registrationPrice": 53.01,
+    "renewalPrice": 77.73,
+    "transferPrice": 77.73,
+    "regularRegistrationPrice": 78.75,
+    "regularRenewalPrice": 77.73,
+    "regularTransferPrice": 77.73
+  },
+  {
+    "extension": ".xyz",
+    "registrationPrice": 2.04,
+    "renewalPrice": 9.92,
+    "transferPrice": 9.92,
+    "regularRegistrationPrice": 9.92,
+    "regularRenewalPrice": 9.92,
+    "regularTransferPrice": 9.92
+  },
+  {
+    "extension": ".yachts",
+    "registrationPrice": 1.52,
+    "renewalPrice": 10.78,
+    "transferPrice": 10.78,
+    "regularRegistrationPrice": 10.78,
+    "regularRenewalPrice": 10.78,
+    "regularTransferPrice": 10.78
+  },
+  {
+    "extension": ".yoga",
+    "registrationPrice": 12.85,
+    "renewalPrice": 21.09,
+    "transferPrice": 21.09,
+    "regularRegistrationPrice": 21.09,
+    "regularRenewalPrice": 21.09,
+    "regularTransferPrice": 21.09
+  },
+  {
+    "extension": ".yokohama",
+    "registrationPrice": 8.22,
+    "renewalPrice": 8.22,
+    "transferPrice": 8.22,
+    "regularRegistrationPrice": 8.22,
+    "regularRenewalPrice": 8.22,
+    "regularTransferPrice": 8.22
+  },
+  {
+    "extension": ".za.com",
+    "registrationPrice": 153.76,
+    "renewalPrice": 153.76,
+    "transferPrice": 153.76,
+    "regularRegistrationPrice": 153.76,
+    "regularRenewalPrice": 153.76,
+    "regularTransferPrice": 153.76
+  },
+  {
+    "extension": ".zip",
+    "registrationPrice": 10.98,
+    "renewalPrice": 14.93,
+    "transferPrice": 12.45,
+    "regularRegistrationPrice": 10.98,
+    "regularRenewalPrice": 14.93,
+    "regularTransferPrice": 12.45
+  },
+  {
+    "extension": ".zone",
+    "registrationPrice": 5.64,
+    "renewalPrice": 24.18,
+    "transferPrice": 24.18,
+    "regularRegistrationPrice": 24.18,
+    "regularRenewalPrice": 24.18,
+    "regularTransferPrice": 24.18
+  },
+  {
+    "extension": ".网站",
+    "registrationPrice": 11.82,
+    "renewalPrice": 11.82,
+    "transferPrice": 11.82,
+    "regularRegistrationPrice": 11.82,
+    "regularRenewalPrice": 11.82,
+    "regularTransferPrice": 11.82
+  },
+  {
+    "extension": ".移动",
+    "registrationPrice": 13.88,
+    "renewalPrice": 13.88,
+    "transferPrice": 13.88,
+    "regularRegistrationPrice": 13.88,
+    "regularRenewalPrice": 13.88,
+    "regularTransferPrice": 13.88
+  },
+  {
+    "extension": ".商店",
+    "registrationPrice": 37.57,
+    "renewalPrice": 37.57,
+    "transferPrice": 37.57,
+    "regularRegistrationPrice": 37.57,
+    "regularRenewalPrice": 37.57,
+    "regularTransferPrice": 37.57
+  },
+  {
+    "extension": ".娱乐",
+    "registrationPrice": 69.5,
+    "renewalPrice": 69.5,
+    "transferPrice": 69.5,
+    "regularRegistrationPrice": 69.5,
+    "regularRenewalPrice": 69.5,
+    "regularTransferPrice": 69.5
+  },
+  {
+    "extension": ".みんな",
+    "registrationPrice": 8.39,
+    "renewalPrice": 8.39,
+    "transferPrice": 8.39,
+    "regularRegistrationPrice": 8.39,
+    "regularRenewalPrice": 8.39,
+    "regularTransferPrice": 8.39
+  },
+  {
+    "extension": ".游戏",
+    "registrationPrice": 69.5,
+    "renewalPrice": 69.5,
+    "transferPrice": 69.5,
+    "regularRegistrationPrice": 69.5,
+    "regularRenewalPrice": 69.5,
+    "regularTransferPrice": 69.5
+  },
+  {
+    "extension": ".企业",
+    "registrationPrice": 69.5,
+    "renewalPrice": 69.5,
+    "transferPrice": 69.5,
+    "regularRegistrationPrice": 69.5,
+    "regularRenewalPrice": 69.5,
+    "regularTransferPrice": 69.5
+  }
+]
